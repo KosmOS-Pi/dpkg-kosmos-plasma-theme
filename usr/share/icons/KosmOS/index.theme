@@ -2,7 +2,12 @@
 Name=KosmOS
 Comment=KosmOS icon theme
 Inherits=breeze
-Directories=64x64/apps,128x128/apps
+Directories=32x32/apps,64x64/apps,128x128/apps
+
+[32x32/apps]
+Size=32
+Type=Fixed
+Context=Applications
 
 [64x64/apps]
 Size=64
