@@ -10,7 +10,7 @@ Rules-Requires-Root: no
 Package: kosmos-plasma-theme
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}, gtk-update-icon-cache
+Depends: ${misc:Depends}
 Description: KosmOS look and feel package for KDE Plasma.
  This package contains KosmOS-customized look and feel stuff
  for KDE Plasma Desktop.
