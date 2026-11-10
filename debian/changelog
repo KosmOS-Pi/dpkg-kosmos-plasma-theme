@@ -1,3 +1,9 @@
+kosmos-plasma-theme (1.5-1~deb13) trixie; urgency=medium
+
+  * Add themed avatar for Plasma and SDDM.
+
+ -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Tue, 10 Nov 2026 15:09:13 +0100
+
 kosmos-plasma-theme (1.4-2~deb13) trixie; urgency=medium
 
   * Port to trixie.
