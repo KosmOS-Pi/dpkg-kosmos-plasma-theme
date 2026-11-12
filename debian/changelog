@@ -1,3 +1,10 @@
+kosmos-plasma-theme (1.6-1~deb13) trixie; urgency=medium
+
+  * Update SDDM theme metadata and preview.
+  * Update copyright.
+
+ -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Thu, 12 Nov 2026 18:04:23 +0100
+
 kosmos-plasma-theme (1.5-1~deb13) trixie; urgency=medium
 
   * Add themed avatar for Plasma and SDDM.

@@ -22,6 +22,7 @@ Files:     usr/share/plasma/look-and-feel/org.kosmos-pi.dark.desktop/contents/pr
            usr/share/wallpapers/KosmOS-flat/contents/images/*.png
            usr/share/wallpapers/KosmOS-flat/contents/images_dark/*.png
            usr/share/wallpapers/KosmOS-flat/contents/screenshot.png
+           usr/share/kosmos/face.icon
 Copyright: Matteo Piscitelli <matteo@matteopiscitelli.it>
 License:   CC-BY-SA-4.0
 
